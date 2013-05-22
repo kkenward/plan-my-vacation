@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<todoList>
+    <todo>
+        <category>Arrange transportation</category>
+        <item>Flights</item>
+    </todo>
+    <todo>
+        <category>Arrange transportation</category>
+        <item>Rental car</item>
+    </todo>
+    <todo>
+        <category>Arrange transportation</category>
+        <item>Boat</item>
+    </todo>
+    <todo>
+        <category>Arrange transportation</category>
+        <item>Train</item>
+    </todo>
+    <todo>
+        <category>Arrange transportation</category>
+        <item>Bus</item>
+    </todo>
+    <todo>
+        <category>Arrange transportation</category>
+        <item>Bike</item>
+    </todo>
+    <todo>
+        <category>Arrange lodging</category>
+        <item>Hotel</item>
+    </todo>
+    <todo>
+        <category>Arrange lodging</category>
+        <item>Rental house</item>
+    </todo>
+    <todo>
+        <category>Arrange lodging</category>
+        <item>Campground</item>
+    </todo>
+    <todo>
+        <category>Arrange lodging</category>
+        <item>Relatives</item>
+    </todo>
+    <todo>
+        <category>Special Rentals</category>
+        <item>Scooter</item>
+    </todo>
+    <todo>
+        <category>Special Rentals</category>
+        <item>Baby equipment</item>
+    </todo>
+    <todo>
+        <category>Special Rentals</category>
+        <item>Wheelchair</item>
+    </todo>
+    <todo>
+        <category>Acquire tickets / make reservations</category>
+        <item>Theme parks</item>
+    </todo>
+    <todo>
+        <category>Acquire tickets / make reservations</category>
+        <item>Theaters</item>
+    </todo>
+    <todo>
+        <category>Acquire tickets / make reservations</category>
+        <item>Sporting Events</item>
+    </todo>
+    <todo>
+        <category>Acquire tickets / make reservations</category>
+        <item>Concerts</item>
+    </todo>
+    <todo>
+        <category>Acquire tickets / make reservations</category>
+        <item>Dining</item>
+    </todo>
+    <todo>
+        <category>Acquire tickets / make reservations</category>
+        <item>Museums</item>
+    </todo>
+    <todo>
+        <category>Arrangements for Children</category>
+        <item>Day care</item>
+    </todo>
+    <todo>
+        <category>Arrangements for Children</category>
+        <item>Grandparents</item>
+    </todo>
+    <todo>
+        <category>Arrangements for Pets</category>
+        <item>Kennel</item>
+    </todo>
+    <todo>
+        <category>Arrangements for Pets</category>
+        <item>Neighbor</item>
+    </todo>
+    <todo>
+        <category>Maps/Directions</category>
+        <item>Get maps/print maps</item>
+    </todo>
+    <todo>
+        <category>Maps/Directions</category>
+        <item>Plan routes</item>
+    </todo>
+    <todo>
+        <category>Research Location</category>
+        <item>Unsafe areas? Nearest medical facilities?</item>
+    </todo>
+    <todo>
+        <category>Assemble Emergency Info</category>
+        <item>Medical insurance cards</item>
+    </todo>
+        <todo>
+        <category>Assemble Emergency Info</category>
+        <item>Auto insurance</item>
+    </todo>
+    <todo>
+        <category>Assemble Emergency Info</category>
+        <item>Credit card contacts</item>
+    </todo>
+    <todo>
+        <category>Assemble Emergency Info</category>
+        <item>Bank/credit union contacts</item>
+    </todo>
+    <todo>
+        <category>Stop Deliveries</category>
+        <item>Mail</item>
+    </todo>
+    <todo>
+        <category>Stop Deliveries</category>
+        <item>Newspaper</item>
+    </todo>    
+</todoList>

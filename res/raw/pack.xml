@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<packingList>
+    <pack>
+   		<catagory>Clothes</catagory>
+        <item>Shirts/tops</item>
+    </pack>
+    <pack>
+   		<catagory>Clothes</catagory>
+        <item>Pants/jeans</item>
+    </pack>
+    <pack>
+   		<catagory>Clothes</catagory>
+        <item>Shorts</item>
+    </pack>
+    <pack>
+   		<catagory>Clothes</catagory>
+        <item>Dresses/skirts</item>
+    </pack>
+    <pack>
+   		<catagory>Clothes</catagory>
+        <item>Sweaters</item>
+    </pack>
+    <pack>
+   		<catagory>Clothes</catagory>
+        <item>Sweatshirts/sweatpants</item>
+    </pack>
+    <pack>
+   		<catagory>Clothes</catagory>
+        <item>Pajamas</item>
+    </pack>
+    <pack>
+   		<catagory>Clothes</catagory>
+        <item>Underwear</item>
+    </pack>
+    <pack>
+   		<catagory>Clothes</catagory>
+        <item>Socks</item>
+    </pack>
+    <pack>
+   		<catagory>Clothes</catagory>
+        <item>Lingerie</item>
+    </pack>
+    <pack>
+        <catagory>Toiletries</catagory>
+        <item>Toothbrush</item>
+    </pack>
+    <pack>
+        <catagory>Toiletries</catagory>
+        <item>Toothpaste</item>
+    </pack>
+    <pack>
+        <catagory>Toiletries</catagory>
+        <item>Deodorant</item>
+    </pack>
+    <pack>
+        <catagory>Toiletries</catagory>
+        <item>Comb/brush</item>
+    </pack>
+    <pack>
+        <catagory>Toiletries</catagory>
+        <item>Shampoo</item>
+    </pack>
+    <pack>
+        <catagory>Toiletries</catagory>
+        <item>Conditioner</item>
+    </pack>
+    <pack>
+        <catagory>Toiletries</catagory>
+        <item>Hairspray</item>
+    </pack>
+    <pack>
+        <catagory>Toiletries</catagory>
+        <item>Soap/bodywash</item>
+    </pack>
+    <pack>
+        <catagory>Toiletries</catagory>
+        <item>Razor</item>
+    </pack>
+    <pack>
+        <catagory>Toiletries</catagory>
+        <item>Shave cream</item>
+    </pack>
+    <pack>
+        <catagory>Toiletries</catagory>
+        <item>Skin care</item>
+    </pack>
+    <pack>
+        <catagory>Toiletries</catagory>
+        <item>Makeup</item>
+    </pack>
+    <pack>
+        <catagory>Accessories</catagory>
+        <item>Shoes, athletic</item>
+    </pack>
+    <pack>
+        <catagory>Accessories</catagory>
+        <item>Shoes, dress</item>
+    </pack>
+    <pack>
+        <catagory>Accessories</catagory>
+        <item>Shoes, heels</item>
+    </pack>
+    <pack>
+        <catagory>Accessories</catagory>
+        <item>Sandals</item>
+    </pack>
+    <pack>
+        <catagory>Accessories</catagory>
+        <item>Belts</item>
+    </pack>
+    <pack>
+        <catagory>Accessories</catagory>
+        <item>Watches</item>
+    </pack>
+    <pack>
+        <catagory>Accessories</catagory>
+        <item>Ties/tie pins</item>
+    </pack>
+    <pack>
+        <catagory>Accessories</catagory>
+        <item>Jewelry</item>
+    </pack>
+    <pack>
+        <catagory>Accessories</catagory>
+        <item>Scarves</item>
+    </pack>
+    <pack>
+        <catagory>Accessories</catagory>
+        <item>Perfume/cologne</item>
+    </pack>
+    <pack>
+        <catagory>Accessories</catagory>
+        <item>Hair accessories</item>
+    </pack>
+    <pack>
+        <catagory>Medications</catagory>
+        <item>Prescriptions</item>
+    </pack>
+    <pack>
+        <catagory>Medications</catagory>
+        <item>Pain relievers</item>
+    </pack>
+        <pack>
+        <catagory>Medications</catagory>
+        <item>Allergy/sinus</item>
+    </pack>
+    <pack>
+        <catagory>Medications</catagory>
+        <item>Digestive aids</item>
+    </pack>
+    <pack>
+        <catagory>Electronics</catagory>
+        <item>Cell phones/chargers</item>
+    </pack>
+    <pack>
+        <catagory>Electronics</catagory>
+        <item>Computer/accessories</item>
+    </pack>
+    <pack>
+        <catagory>Electronics</catagory>
+        <item>Tablets/Ereaders/chargers</item>
+    </pack>
+    <pack>
+        <catagory>Electronics</catagory>
+        <item>Camera gear</item>
+    </pack>
+    <pack>
+        <catagory>Entertainment</catagory>
+        <item>Books</item>
+    </pack>
+    <pack>
+        <catagory>Entertainment</catagory>
+        <item>Card games</item>
+    </pack>
+    <pack>
+        <catagory>Entertainment</catagory>
+        <item>Game consoles</item>
+    </pack>
+    <pack>
+        <catagory>Important Documents</catagory>
+        <item>Driver's License</item>
+    </pack>
+    <pack>
+        <catagory>Important Documents</catagory>
+        <item>Passport</item>
+    </pack>
+    <pack>
+        <catagory>Important Documents</catagory>
+        <item>Credit Cards</item>
+    </pack>
+        <pack>
+        <catagory>Important Documents</catagory>
+        <item>Insurance Cards</item>
+    </pack>
+    <pack>
+        <catagory>Important Documents</catagory>
+        <item>Tickets</item>
+    </pack>
+    <pack>
+        <catagory>Important Documents</catagory>
+        <item>Confirmations</item>
+    </pack>
+    <pack>
+        <catagory>Important Documents</catagory>
+        <item>Maps</item>
+    </pack>
+    <pack>
+        <catagory>Food</catagory>
+        <item>Snacks</item>
+    </pack>
+    <pack>
+        <catagory>Food</catagory>
+        <item>Gum/candy</item>
+    </pack>
+    <pack>
+        <catagory>Beverages</catagory>
+        <item>Water</item>
+    </pack>
+    <pack>
+        <catagory>Beverages</catagory>
+        <item>Soft drinks</item>
+    </pack>
+    <pack>
+        <catagory>Beverages</catagory>
+        <item>Juice</item>
+    </pack>
+    <pack>
+        <catagory>Beverages</catagory>
+        <item>Coffee/tea</item>
+    </pack>
+    <pack>
+        <catagory>Beverages</catagory>
+        <item>Beer</item>
+    </pack>
+    <pack>
+        <catagory>Beverages</catagory>
+        <item>Wine</item>
+    </pack>
+    <pack>
+        <catagory>Beverages</catagory>
+        <item>Liquor</item>
+    </pack>
+    <pack>
+        <catagory>Special Equipment</catagory>
+        <item>Baby gear</item>
+    </pack>
+    <pack>
+        <catagory>Special Equipment</catagory>
+        <item>Camping gear</item>
+    </pack>
+    <pack>
+        <catagory>Special Equipment</catagory>
+        <item>Travel Accessories</item>
+    </pack>
+    <pack>
+        <catagory>Special Equipment</catagory>
+        <item>Winter</item>
+    </pack>
+    <pack>
+        <catagory>Special Equipment</catagory>
+        <item>Summer</item>
+    </pack>
+    <pack>
+        <catagory>Money</catagory>
+        <item>Cash</item>
+    </pack>
+    <pack>
+        <catagory>Money</catagory>
+        <item>Credit cards</item>
+    </pack>
+    <pack>
+        <catagory>Money</catagory>
+        <item>Check book</item>
+    </pack>
+    <pack>
+        <catagory>Contacts</catagory>
+        <item>Address Book</item>
+    </pack>
+</packingList>

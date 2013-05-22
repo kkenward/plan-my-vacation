@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trips>
+    <trip>
+        <tripname>Disney</tripname>
+        <location>Orlando, FL</location>
+        <beginDate>07/14/2013</beginDate>
+        <endDate>07/20/2013</endDate>
+        <purpose>Vacation</purpose>
+    </trip>
+    <trip>
+        <tripname>Week in Gaylord</tripname>
+        <location>Gaylord, MI</location>
+        <beginDate>08/18/2013</beginDate>
+        <endDate>08/25/2013</endDate>
+        <purpose>Otsego County Fair</purpose>
+    </trip>
+</trips>
